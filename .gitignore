@@ -1,0 +1,15 @@
+#Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+
+#Generated output
+data/episodes_clean.csv
+report.md
+
+#IDEs
+.vscode/
+.idea/

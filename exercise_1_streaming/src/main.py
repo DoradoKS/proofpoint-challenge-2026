@@ -7,7 +7,7 @@ def main():
     base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     input_csv = os.path.join(base_path, "data", "input.csv")
     output_csv = os.path.join(base_path, "data", "episodes_clean.csv")
-    report_md = os.path.join(base_path, "report.md")
+    report_md = os.path.join(base_path, "data", "report.md")
 
     #The input file is checked before starting
     if not os.path.exists(input_csv):

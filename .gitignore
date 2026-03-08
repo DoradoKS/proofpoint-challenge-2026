@@ -1,4 +1,4 @@
-#Python
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -6,10 +6,12 @@ __pycache__/
 env/
 venv/
 
-#Generated output
-data/episodes_clean.csv
+# Generated output
+**/episodes_clean.csv
+*.log
 report.md
 
-#IDEs
+# IDEs
 .vscode/
 .idea/
+.DS_Store

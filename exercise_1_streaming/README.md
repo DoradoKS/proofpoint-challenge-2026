@@ -20,3 +20,8 @@ When a duplicate is detected, the system retains the record with higher data den
 - Valid Air Date > "Unknown"
 - Known Title > "Untitled Episode"
 - Valid Numbers > 0
+
+## Technical Observations and Suggested Improvements
+
+During development, it was observed that the provided rules do not capture cases where two records have disjoint missing data (e.g., one is missing a SeasonNumber and the other is missing an EpisodeNumber, but they share a SeriesName and EpisodeTitle).
+Due to strict adherence to the challenge requirements, a merge rule by Global Title was not implemented to avoid false positives, but this has been identified as an opportunity to improve catalog integrity.

@@ -1,11 +1,28 @@
 SeriesName,Season,Episode,Title,AirDate
-Breaking Bad,1,2,Cat's in the Bag...,2008-01-27
-Breaking Bad,0,2,Cat's in the Bag...,2008-01-27
-The Office,5,3,The Duel,2009-01-15
-The Office,five,abc,The Duel,2009-01-15
-Better Call Saul,1,,,
-,1,1,Pilot,2020-01-01
+Breaking Bad,1,1,Pilot,2008-01-20
+Breaking Bad,1,1,Pilot,2008-01-20
+Breaking Bad,0,1,Pilot,2008-01-20
+The Office,1,1,Pilot,2005-03-24
+The Office,1,0,Pilot,Unknown
+The Office,1,1,Untitled Episode,Unknown
 Stranger Things,1,1,Chapter One,2016-07-15
 Stranger Things,1,1,Chapter One,Unknown
+  Stranger Things  ,1,1,CHAPTER ONE,2016-07-15
+Better Call Saul,1,1,Uno,2015-02-08
+Better Call Saul,1,1,Untitled Episode,2015-02-08
+The Mandalorian,1,1,Chapter 1,2019-11-12
 The Mandalorian,one,1,Chapter 1,2019-11-12
-Prueba,one,1,Chapter 1,2019-11-12
+Friends,10,1,The One After Joey and Rachel Kiss,2003-09-25
+Friends,0,1,The One After Joey and Rachel Kiss,Unknown
+Succession,1,1,Celebration,2018-06-03
+Succession,1,0,Celebration,2018-06-03
+Dark,1,1,Secrets,2017-12-01
+Dark,1,1,Secrets,9999-99-99
+Dark,2,,,
+Discard Me,,,,Unknown
+,1,1,No Name Series,2024-01-01
+The Crown,1,1,Wolferton Splash,2016-11-04
+The Crown,1,1,Wolferton Splash,2016-11-04
+The Boys,1,1,The Name of the Game,2019-07-26
+The Boys,1,1,Untitled Episode,Unknown
+Squid Game,-4,4,,
